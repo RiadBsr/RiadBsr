@@ -53,4 +53,3 @@ I specialize in **Computer Vision**, **Deep Learning**, and **3D Simulation**. M
 * **LinkedIn:** [linkedin.com/in/RiadBsr](https://linkedin.com/in/RiadBsr)
 * **Email:** riad.boussoura@gmail.com
 
-![Riad's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiadBsr&show_icons=true&theme=radical)
