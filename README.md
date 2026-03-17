@@ -4,7 +4,7 @@
 
 **Computer Vision R&D Engineer** based in Paris. I work at the boundary of deep learning, 3D simulation, and real-time perception systems.
 
-Currently finishing a research contract at **GoPro**: built a Sim-to-Real pipeline that replaced a legacy 360° stitching algorithm with a custom PyTorch model, achieving >50% reduction in processing time.
+Completed my final year internship at **GoPro**: built a Sim-to-Real pipeline that replaced a legacy 360° stitching algorithm with a custom PyTorch model, achieving >50% reduction in processing time.
 
 ---
 
@@ -13,12 +13,12 @@ Currently finishing a research contract at **GoPro**: built a Sim-to-Real pipeli
 | Role | Company | Period |
 |---|---|---|
 | Computer Vision R&D Engineer | GoPro | 2025 |
-| Lead Founding Engineer / CTO | BargMe | 2023 – 2024 |
-| Technical Educator, 3D & AI | SkillDino / InspirationTuts | 2022 – 2023 |
+| Lead Founding Engineer / CTO | BargMe | 2023 - 2024 |
+| Technical Educator, 3D & AI | SkillDino / InspirationTuts | 2022 - 2023 |
 
 ---
 
-## Projects
+## Projects & Awards
 
 **ASYEL: Sign Language Translation**
 Gesture-to-speech pipeline using LSTMs on a custom motion-capture dataset.
@@ -65,7 +65,9 @@ Drowsiness detection via 3D facial mesh tracking, 468 landmarks, real-time.
 ## Education
 
 MSc AI & Computer Vision, Sorbonne Paris Nord *(Excellence Scholarship)*
+
 MSc Computer Vision + BSc Software Engineering, USTHB *(Top of Class)*
+
 AI & Data Science, Samsung Innovation Campus *(Top 30 Nationwide)*
 
 ---
