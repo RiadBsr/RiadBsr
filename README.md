@@ -1,7 +1,5 @@
 [![Riad Boussoura](./banner.png)](https://riadboussoura.com)
 
----
-
 **Computer Vision R&D Engineer** based in Paris. I work at the boundary of deep learning, 3D simulation, and real-time perception systems.
 
 Completed my final year internship at **GoPro**: built a Sim-to-Real pipeline that replaced a legacy 360° stitching algorithm with a custom PyTorch model, achieving >50% reduction in processing time.
