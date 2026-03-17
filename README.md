@@ -1,55 +1,78 @@
-# Hi there, I'm Riad Boussoura! 👋
+# Riad Boussoura
 
-### Video AI & Applied Research Engineer
-*Bridging the gap between SOTA Research and Real-World Deployment*
+**Computer Vision R&D Engineer** — Paris, France
 
-I specialize in **Computer Vision**, **Deep Learning**, and **3D Simulation**. My "superpower" is using high-fidelity 3D modeling (Blender) to create synthetic datasets that solve complex "ground truth" bottlenecks for AI models.
+I build production-grade perception systems at the intersection of deep learning, 3D simulation, and real-time inference. My focus is solving the hardest part of applied AI: bridging the gap between research and reliable deployment.
 
----
-
-## 🏆 Key Achievements
-> *Things I'm proud of that define my work ethic.*
-
-* **🎓 Excellence Scholarship Awardee:** Recognized for academic superiority by the *Ecole Universitaire de Recherche* (Sorbonne Paris Nord).
-* **🏎️ Former Startup CTO:** Led the technical strategy and development for *BargMe*, managing a multidisciplinary team to ship a budget management app.
-* **📹 300k+ Subscribers:** Created 3D & AI technical content (SkillDino/InspirationTuts) teaching complex workflows to a global audience.
-* **🥇 1st Prize Winner:** Google DevFest '21 AI Hackathon for a real-time fall detection safety system.
+Currently wrapping up a Computer Vision R&D contract at **GoPro**, where I architected a Sim-to-Real pipeline that replaced a legacy stitching algorithm with a custom PyTorch model — reducing processing time by over 50% while improving visual quality.
 
 ---
 
-## 🔬 Featured Research & Work
+## Experience
 
-### 📸 **Deep Learning for 360° Image Stitching (GoPro)**
-* **The Challenge:** Traditional stitching algorithms struggle with parallax artifacts, and real-world ground truth data is impossible to capture.
-* **My Solution:** Architected a **Sim-to-Real** pipeline using Blender to generate photo-realistic synthetic data.
-* **The Result:** Trained tested and finetuned a PyTorch model with a custom multi-component loss function that outperformed legacy algorithms in both **visual quality** and **inference speed**.
+**Computer Vision R&D Engineer — GoPro** *(Mar 2025 – Sep 2025, Paris)*
+Designed a deep learning pipeline to eliminate parallax artifacts in dual-lens 360° stitching. Built a procedural synthetic data engine in Blender (Python API) to generate photorealistic training sets. Engineered and validated a custom PyTorch model that outperformed the production baseline on both quality and speed.
 
-### 🚗 **Advanced Driver Assistance System (Samsung Innovation Campus)**
-* **The Tech:** Real-time 3D face mesh tracking to detect driver drowsiness.
-* **The Scale:** Deployed on edge hardware (Nvidia Jetson Nano) for real-time inference.
+**Lead Founding Engineer & CTO — BargMe** *(Jan 2023 – Nov 2024, Remote)*
+Designed and shipped a vision-integrated product recognition pipeline for real-time mobile camera input. Architected the recommendation engine and managed end-to-end deployment on Debian VPS.
+
+**Technical Educator & 3D Specialist — SkillDino / InspirationTuts** *(Jan 2022 – Dec 2023, Remote)*
+Produced technical content on 3D Computer Vision (Photogrammetry, NeRFs) for an audience of 300,000+ subscribers, bridging 3D tooling (Blender, Unity) with AI research (OpenCV, deep learning).
 
 ---
 
-## 🛠️ Tech Stack
+## Selected Projects
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+**ASYEL — Sign Language Translation** · *LSTM, Deep Learning, Time-Series*
+Real-time gesture-to-speech pipeline using LSTM networks. Built and annotated a custom motion-capture dataset from scratch.
+**2nd Prize — National Innovation Competition (Ministry of Telecommunication)**
 
-**Deep Learning & AI**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+**Autonomous Fall Detection** · *Pose Estimation, Edge AI*
+AI safety module for robotic vacuums using skeleton tracking with human-in-the-loop verification to reduce false positives.
+**1st Prize — Google DevFest AI Hackathon. Featured on national television.**
+
+**Real-Time Driver Monitoring (ADAS)** · *MediaPipe 3D, OpenCV*
+Drowsiness and distraction detection using 3D facial mesh (468 landmarks), computing Eye Aspect Ratio and yawning frequency in real-time.
+**Judges' Favorite — Samsung Innovation Campus**
+
+---
+
+## Technical Skills
+
+**Computer Vision**
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-orange)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat)
+`Optical Flow` `Stereo Vision` `Multi-view Geometry` `Depth Estimation`
+
+**Deep Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+`CNNs (U-Net, ResNet)` `Vision Transformers` `GANs` `LSTMs` `Custom Loss Design` `ONNX`
 
 **3D & Simulation**
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+`Unreal Engine` `Procedural Generation` `Ray Tracing` `Physics Simulation`
+
+**Engineering**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/RiadBsr](https://linkedin.com/in/RiadBsr)
-* **Email:** riad.boussoura@gmail.com
+## Education
 
+- **MSc Artificial Intelligence & Computer Vision** — Sorbonne Paris Nord *(Excellence Scholarship)*
+- **MSc Computer Vision + BSc Software Engineering** — USTHB *(Top of Class)*
+- **AI & Data Science Certification** — Samsung Innovation Campus *(Selected Top 30 Nationwide)*
+
+---
+
+## Contact
+
+[hello@riadboussoura.com](mailto:hello@riadboussoura.com) · [LinkedIn](https://linkedin.com/in/RiadBsr) · [GitHub](https://github.com/RiadBsr)
