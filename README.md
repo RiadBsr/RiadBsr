@@ -81,6 +81,4 @@ AI & Data Science, Samsung Innovation Campus *(Top 30 Nationwide)*
 
 Want to know more? **[Chat with my AI clone](https://riadboussoura.com)** — it knows my background, projects, and thinking.
 
----
 
-[hello@riadboussoura.com](mailto:hello@riadboussoura.com) · [riadboussoura.com](https://riadboussoura.com)
