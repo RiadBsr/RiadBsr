@@ -83,4 +83,4 @@ Want to know more? **[Chat with my AI clone](https://riadboussoura.com)** — it
 
 ---
 
-[hello@riadboussoura.com](mailto:hello@riadboussoura.com) · [riadboussoura.com](https://riadboussoura.com) · [LinkedIn](https://linkedin.com/in/RiadBsr)
+[hello@riadboussoura.com](mailto:hello@riadboussoura.com) · [riadboussoura.com](https://riadboussoura.com)
